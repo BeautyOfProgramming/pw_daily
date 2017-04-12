@@ -1,6 +1,7 @@
 # pw_daily
 [《编程之美日报系列》](https://github.com/BeautyOfProgramming/pw_daily/issues "编程之美日报系列")<br>
 
+『 不是为了结果努力，而是要为了这个过程坚持 - 贤二机器人 』
 
 ### 感谢
 周一 后端 应章豪<br>
